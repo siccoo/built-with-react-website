@@ -24,7 +24,7 @@ export default class Home extends Component{
                     <Col xs={12} sm={4} className="person-wrapper">
                     <Image src="asset/ugonma.jpg" circle className="profile-pic" />
                     <h3>Jessy Chigo</h3>
-                    <p>In her words Judic-O Couture brands need to integrate social commitments into their strategies and focus on attracting community members and building a winning business require the focus to resist doing too many things at once, while finding the right blend of fashion and technology. That is we focus only on female wears.</p>
+                    <p>Indeed Judic-O Couture / Fashion Home is a home for the fashionistas. This is a place for practical knowledge, I'm very happy to be an alumni.</p>
                     </Col>
 
                     <Col xs={12} sm={4} className="person-wrapper">
